@@ -3,9 +3,9 @@
 
 >**DESAFIOS JavaScript:**
 
-- [ ] Hello World - Fácil
-- [ ] Conta bancária - Fácil
-- [ ] Relógio - Médio
+- [x]  [Hello World](https://github.com/viinicius-medeiross/Estudo-JavaScript/blob/main/Exerc%C3%ADcios/Hello%20World/HelloWorld.js)
+- [ ]  Conta bancária
+- [x]  [ Relógio Digital ](https://github.com/viinicius-medeiross/Estudo-JavaScript/tree/main/Exerc%C3%ADcios/Relogio%20Digital)
 
 
 >**LINKS ÚTEIS PARA ESTUDOS**
