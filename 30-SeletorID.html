@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saletor ID</title>
+    <!--JS-->
+    <script>
+        //Função
+        function exibirConteudo() {
+            
+            //Obter dados do ID CAMPO
+            var campo = document.getElementById("campo");
+
+            //Exibir Conteúdo
+            alert(campo.value);
+
+            //Apagar o conteúdo
+            campo.value = "";
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="campo">
+    <button onclick="exibirConteudo()">Clique aqui</button>
+</body>
+</html>
